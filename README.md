@@ -27,7 +27,7 @@ Precision-Recall, F-1 Score, Lift, etc.), Introduction to Map-Reduce paradigm
 ### Books:
 1. Python for Data Analysis, 1st Edition, William McKinney
 2. An Introduction to Statistical Learning with Applications in R, 1st Edition G. James, 0D. Witten, T. Hastie and R. Tibshirani
-3. Computational and Inferential Thinking: The Foundations of Data Science, 1 st Edition,A. Adhikari and J. DeNero
+3. [Computational and Inferential Thinking: The Foundations of Data Science, 1 st Edition,A. Adhikari and J. DeNero](https://www.inferentialthinking.com/chapters/intro.html)
 4. Data Mining and Analysis: Fundamental Concepts and Algorithms, 1 st Edition, M. Zaki & W. Meira
 5. Data Science from Scratch, 1st Edition, Joel Grus
 6. Doing Data Science, 1 st Edition, Cathy O'Neil and Rachel Schutt
