@@ -32,5 +32,17 @@
 3. Predicting future events
 4. Understanding people and the world.
 
+# Probing Reality
+- Data can be gathered by
+	i) passive methods
+	ii) active methods: response of the world to our actions
+- Analysis of these responses can be extremely valuable. 
+  - e.g. what is the best button size and color? best answer found by probing the world.
+
+# Pattern discovery
+- Datafied problems can be analyzed automatically to discover useful patterns.
+	- e.g. user profiles an ingredient in programmatic advertising or digital marketing.
+
+# Predicting future events
 
 
