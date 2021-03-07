@@ -1,48 +1,29 @@
 # What is Data Science?
-- You have already experienced data science in several forms
-- It has been behind resolving some of our common daily tasks for several years
-- Most of the scientific methods used in data science are not new
-- Statistics an old science Simon Laplace 1749 and Thomas Bayes (1701)
-- Machine learning relatively new but considered well established
-- Computer Science changed lives several decades ago
 
-# Why Data Science is seen as a novel trend?
-- Datafication: disruptive change in our society caused by the evolution of technology
-	+ personal level: list of books, films, food, physical activity, purchases
-	+ business level: web activity, network activity, machinery signals
-- democratization of data analysis
-	+ large companies Google, Yahoo, IBM, SAS were only players when data science had no name
-	+ today the gap between companies and people is shrinking.
-	- access to cloud computing allows any individual to analyze huge amounts of data in short periods of time.
-	- Analytical knowledge is free 
-		+ Crucial algorithms needed can be found
-    + Open source development is the norm
+- drawing useful conclusions from large and diverse data sets, through exploration, prediction and inference.
+  + exploration involves identifying patterns in information
+  + prediction involves using information to make informed guesses about unknown values
+  + inference involves quantifying degree of certainty.
+- primary tools for 
+  + exploration are visualizations and descriptive statistics
+  + prediction are machine learning and optimization
+	+ inference statistical tests and models
+- Statistics is central component of data science because it studies how to make robust conclusions based on incomplete information.
+- Computing is central component of data science because it allows us to apply analysis techniques to the large and diverse data sets that arise in real-world applications, including 
+  + numbers
+	+ text
+	+ images
+	+ videos
+	+ sensor readings
+- Data Science is all of these things, but it is more than the sum of its parts because of the applications.
+- Through understanding a particular domain, data scientists learn to ask appropriate questions about their data and correctly interpret the answers provided by inferential and computational tools.
 
-# Data Science defined
-- as a methodology by which actionable insights can be inferred from data.
+# Why Data Science?
 
-# Objective of data science
-- production of beliefs informed by data to be used as the basis of decision making
-- In absence of data, beliefs are uninformed and decisions are based on best practice or intuition.
-
-# Data Science and 4 strategies
-- DS allow us to adopt 4 different strategies to explore the world using data.
-1. Probing reality
-2. Pattern discovery
-3. Predicting future events
-4. Understanding people and the world.
-
-# Probing Reality
-- Data can be gathered by
-	i) passive methods
-	ii) active methods: response of the world to our actions
-- Analysis of these responses can be extremely valuable. 
-  - e.g. what is the best button size and color? best answer found by probing the world.
-
-# Pattern discovery
-- Datafied problems can be analyzed automatically to discover useful patterns.
-	- e.g. user profiles an ingredient in programmatic advertising or digital marketing.
-
-# Predicting future events
+- The degree of uncertainty for many decisions ca be reduced sharply by
+	+ access to large data sets, and
+	+ computational tools required to analyze them effectively
+- Data driven decision making has already transformed a tremendous breadth of industries
+- wide range of academic disciplines are evolving rapidly to incorporate large-scale data analysis into their theory and practice.
 
 
