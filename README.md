@@ -32,3 +32,8 @@ Precision-Recall, F-1 Score, Lift, etc.), Introduction to Map-Reduce paradigm
 5. Data Science from Scratch, 1st Edition, Joel Grus
 6. Doing Data Science, 1 st Edition, Cathy O'Neil and Rachel Schutt
 7. Introduction to Data Science. A Python Approach to Concepts, Techniques and Applications, 1st Edition, Laura Igual.
+
+## Useful Online Resources:
+1. [Kaggle](https://www.kaggle.com)
+2. [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+3. [Introduction to Decision Trees](https://www.kaggle.com/dmilla/introduction-to-decision-trees-titanic-dataset)
