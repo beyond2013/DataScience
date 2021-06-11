@@ -59,7 +59,7 @@ What causes breast cancer?
 - As the deaths mounted, Snow recorded them diligently, using a method that went on to become standard in the study of how diseases spread: **he drew a map**. 
 - On a street map of the district, he recorded the location of each death.
 
-![snow map](./snow_map.jpg)
+![snow map](../figs/snow_map.jpg)
 
 - Each black bar represents one death.
 - Black discs mark the locations of water pumps.
