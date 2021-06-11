@@ -5,23 +5,49 @@
 ## Course Contents:
 
 - [Introduction to Data Science](markdown/lecture1.md)
-- Data Science Life cycle & Process (Asking Right Questions, Obtaining Data, Understanding Data, Building Predictive Models, Generating Visualizations) For Building Data Products
+- Data Science Life cycle & Process 
+  + Asking Right Questions
+  + Obtaining Data
+  + Understanding Data
+  + Building Predictive Models
+  + Generating Visualizations For Building Data Products
 - Introduction to Data (Types of Data and Datasets)
 - Data Quality (Measurement and Data Collection Issues)
-- Data pre-processing Stages (Aggregation, Sampling, Dimensionality Reduction, Feature subset selection,
-- Feature creation etc.)
+- Data pre-processing Stages 
+  + Aggregation
+  + Sampling
+  + Dimensionality Reduction
+  + Feature subset selection
+- Feature creation 
 - Algebraic & Probabilistic View of Data
 - Introduction to Python
-- Data Science Stack (Python, Numpy, Pandas, Matplotlib), Relational Algebra & SQL,
-- Scraping & Data Wrangling (assessing, structuring, cleaning & munging of data)
+- Data Science Stack 
+  + Python
+  + Numpy
+  + Pandas
+  + Matplotlib
+- Relational Algebra & SQL
+- Scraping & Data Wrangling 
+  + assessing
+  + structuring
+  + cleaning  munging of data
 - Basic Descriptive & Exploratory Data Analysis
-- Introduction to Text Analysis (Stemming, Lemmatization, Bag of Words, TF-IDF)
+- Introduction to Text Analysis 
+  + Stemming
+  + Lemmatization
+  + Bag of Words
+  + TF-IDF
 - Introduction to Prediction and Inference 
 - Supervised & Unsupervised Algorithms
 - Introduction to Scikit Learn
 - Bias-Variance
 - Trade-off
-- Model Evaluation & Performance Metrics (Accuracy, Contingency Matrix, Precision-Recall, F-1 Score, Lift, etc.)
+- Model Evaluation & Performance Metrics 
+   + Accuracy
+   + Contingency Matrix
+   + Precision-Recall
+   + F-1 Score
+   + Lift
 - Introduction to Map-Reduce paradigm
 
 ## Course Assessment:
