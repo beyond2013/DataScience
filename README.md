@@ -21,7 +21,7 @@
 - Feature creation 
 - Algebraic & Probabilistic View of Data
 - Introduction to Python
-- Data Science Stack 
+- [Data Science Stack]
   + Python
   + Numpy
   + Pandas
