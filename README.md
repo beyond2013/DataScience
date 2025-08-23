@@ -51,10 +51,11 @@
 - Introduction to Map-Reduce paradigm
 
 ## Course Assessment:
-### Mid Term Exam: 30 %
+### Mid Term Exam: 20 %
 ### Terminal Exam: 40 %
-### Assignment: 20 %
-### Quizzes: 10 %
+### Assignment: 10 %
+### Quizzes: 5 %
+### Practical: 25 %
 
 ## Reference Materials:
 ### Books:
