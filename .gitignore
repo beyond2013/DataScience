@@ -1,8 +1,14 @@
+# Ignore everything by default
 /*
-# Ignore everything except markdown files
+
+# Allow these file types and folders
 !*.md
-.Rproj.user
-!.ipynb
+!*.ipynb
 !figs/
 !markdown/
 !notebooks/
+
+# Inside notebooks folder, ignore auto-generated Jupyter stuff
+notebooks/.ipynb_checkpoints/
+notebooks/.virtual_documents/
+
