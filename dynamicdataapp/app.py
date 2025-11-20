@@ -17,12 +17,12 @@ if uploaded_file is not None:
   
   # Sidebar controls
 
-  selected_columns = df.columns[1:6]
+  selected_columns = df.columns[0:6]
 
   st.sidebar.header("Input Sliders")
 
 
-  column = st.sidebar.selectbox("Select Course", df.columns[1:6])
+  column = st.sidebar.selectbox("Select Course", df.columns[0:6])
 
     # Slider to filter score range
   min_score, max_score = st.sidebar.slider(

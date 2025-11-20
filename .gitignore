@@ -7,7 +7,7 @@
 !figs/
 !markdown/
 !notebooks/
-
+!dynamicdataapp/
 # Inside notebooks folder, ignore auto-generated Jupyter stuff
 notebooks/.ipynb_checkpoints/
 notebooks/.virtual_documents/
